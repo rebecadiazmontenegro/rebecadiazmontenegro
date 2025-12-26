@@ -1,4 +1,6 @@
 ## Hi, I'm Rebeca 👋🏻👩🏼‍💻
+![Header](./assets/header.png)
+
 
 <!--
 **rebecadiazmontenegro/rebecadiazmontenegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
